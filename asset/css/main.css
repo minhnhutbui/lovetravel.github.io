@@ -962,7 +962,7 @@
 }
 /* FOOTER */
 #footer{
-    background: url('/asset/img/footer.jpg') center / cover no-repeat;
+    background: url('../img/footer.jpg') center / cover no-repeat;
     width: 100%;
     min-height: 630px;
     display: flex;
