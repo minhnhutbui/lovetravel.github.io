@@ -312,7 +312,7 @@
 }
 /* SLIDER */
 #slider {
-    background: url('/asset/img/slider.jpg') center no-repeat;
+    background: url('/asset/img/slider.jpg') center / cover no-repeat;
     height: calc(var(--slider-height) + var(--header-height));
     position: relative;
     filter: brightness(90%);
@@ -572,7 +572,7 @@
     position: relative;
 }
 .container__banner-img{
-    background: url('/asset/img/nanner-mid.jpg') center/cover no-repeat;
+    background: url('/asset/img/nanner-mid.jpg') center / cover no-repeat;
     height: 235px;
     width: 100%;
     display: flex;
